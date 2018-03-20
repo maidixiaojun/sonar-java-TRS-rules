@@ -14,7 +14,7 @@
 //import java.util.List;
 //
 ///**
-// * Created by huqingen on 2017/3/16.
+// * Created by sonarDeveloper on 2017/3/16.
 // */
 //@Rule(
 //        key = "MyFirstCustomCheck",

@@ -11,7 +11,7 @@ import org.sonar.plugins.java.api.tree.ClassTree;
 /**
  * 异常类命名检查
  * 异常类命名使用 Exception 结尾
- * Created by huqingen on 2017/3/17.
+ * Created by sonarDeveloper on 2017/3/17.
  */
 @Rule(key = "ExceptionClassNameCheck")
 public class ExceptionClassNameCheck extends BaseTreeVisitor implements JavaFileScanner{

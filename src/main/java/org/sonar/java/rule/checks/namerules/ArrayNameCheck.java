@@ -11,7 +11,7 @@ import org.sonar.plugins.java.api.tree.*;
 /**
  * 数组名称检查
  * 中括号是数组类型的一部分，数组定义如下:String[] args;
- * Created by huqingen on 2017/3/18.
+ * Created by sonarDeveloper on 2017/3/18.
  */
 @Rule(key = "ArrayNameCheck")
 public class ArrayNameCheck extends BaseTreeVisitor implements JavaFileScanner{

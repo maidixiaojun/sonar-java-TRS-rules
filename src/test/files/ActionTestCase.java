@@ -6,7 +6,7 @@ import net.sf.json.JSONObject;
 
 /**
  * 执行测试用例
- * Created by huqingen on 2017/3/10.
+ * Created by sonarDeveloper on 2017/3/10.
  */
 public interface ActionTestCase {
 

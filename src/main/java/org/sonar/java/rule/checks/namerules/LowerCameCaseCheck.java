@@ -9,7 +9,7 @@ import org.sonar.plugins.java.api.tree.*;
 
 /**
  * 方法名、参数名、成员变量、局部变量都统一使用 lowerCamelCase 风格，必须遵从 驼峰形式
- * Created by huqingen on 2017/3/17.
+ * Created by sonarDeveloper on 2017/3/17.
  */
 @Rule(key="LowerCameCaseCheck")
 public class LowerCameCaseCheck extends BaseTreeVisitor implements JavaFileScanner{

@@ -4,7 +4,7 @@
 //import org.sonar.java.checks.verifier.JavaCheckVerifier;
 //
 ///**
-// * Created by huqingen on 2017/3/16.
+// * Created by sonarDeveloper on 2017/3/16.
 // */
 //public class MyFirstCustomCheckTest {
 //    @Test

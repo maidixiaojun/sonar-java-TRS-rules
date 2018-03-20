@@ -10,7 +10,7 @@ import org.sonar.plugins.java.api.tree.*;
 /**
  * 命名规约
  * 代码中的命名均不能以下划线或美元符号开始，也不能以下划线或美元符号结束
- * Created by huqingen on 2017/3/16.
+ * Created by sonarDeveloper on 2017/3/16.
  */
 //@Rule(
 //        key = "UnderlineDollarNameCheck",

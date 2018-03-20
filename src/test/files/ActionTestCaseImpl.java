@@ -16,7 +16,7 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
 /**
- * Created by huqingen on 2017/3/10.
+ * Created by sonarDeveloper on 2017/3/10.
  */
 @Component
 public class ActionTestCaseImpl implements ActionTestCase{

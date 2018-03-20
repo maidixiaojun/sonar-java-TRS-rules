@@ -10,7 +10,7 @@ import org.sonar.plugins.java.api.tree.*;
 /**
  * 抽象类命名检查
  * 抽象类命名使用 Abstract 或 Base 开头
- * Created by 古月随笔 on 2017/3/17.
+ * Created by sonarDeveloper on 2017/3/17.
  */
 @Rule(key = "AbstractClassNameCheck")
 public class AbstractClassNameCheck extends BaseTreeVisitor implements JavaFileScanner{

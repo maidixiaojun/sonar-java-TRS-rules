@@ -10,7 +10,7 @@ import org.sonar.plugins.java.api.tree.*;
 /**
  * 常量名称检查
  * 常量命名全部大写，单词间用下划线隔开，力求语义表达完整清楚
- * Created by huqingen on 2017/3/17.
+ * Created by sonarDeveloper on 2017/3/17.
  */
 @Rule(key = "ConstantNameCheck")
 public class ConstantNameCheck extends BaseTreeVisitor implements JavaFileScanner{

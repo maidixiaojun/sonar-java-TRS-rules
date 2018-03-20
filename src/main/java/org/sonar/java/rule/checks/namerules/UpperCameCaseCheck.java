@@ -13,7 +13,7 @@ import java.util.List;
 
 /**
  * 检查: 类名是否以驼峰形式命名
- * Created by huqingen on 2017/3/17.
+ * Created by sonarDeveloper on 2017/3/17.
  */
 @Rule(key="UpperCameCaseCheck")
 public class UpperCameCaseCheck extends BaseTreeVisitor implements JavaFileScanner{
